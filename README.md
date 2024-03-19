@@ -1,8 +1,8 @@
 # CourseMaterialofCS
 
-本人为TJU计算机科学与技术专业的学生，以下为我的课程资料，包括实验要求、代码及报告，个人作业，复习资料，课程笔记等等，请勿用作商业用途，谢谢。
+本人为天津大学TJU计算机科学与技术专业的学生，以下为我的课程资料，包括实验要求、代码及报告，个人作业，复习资料，课程笔记等等，请勿用作商业用途，谢谢。
 
-I am a student, major in computer science and technology,TJU. The followings are my course materials, including experimental requirements, codes and reports, personal assignments, review materials, course notes, etc. Please do not use them for commercial purposes. Thank you. Wish you a wonderful day!
+I am a student, major in computer science and technology, Tianjin University(TJU). The followings are my course materials, including experimental requirements, codes and reports, personal assignments, review materials, course notes, etc. Please do not use them for commercial purposes. Thank you. Wish you a wonderful day!
 
 ## 2023-2024第一学期
 
