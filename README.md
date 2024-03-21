@@ -13,7 +13,8 @@ https://www.alipan.com/s/sPJRv6GD9PA
 https://www.alipan.com/s/q386WpeX69d
 
 ## 操作系统原理：
-https://www.alipan.com/drive/file/backup/659801178dd3d68c48f242c0b0cfd362c0f2b582
+OS_study：https://www.alipan.com/s/PmpMoM8hnSn
+OS_LAB：https://www.alipan.com/s/iawk7BoEFZT
 
 ## 概率论与数理统计：
 https://www.alipan.com/s/1DNRhoxXxm1
