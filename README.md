@@ -1,4 +1,4 @@
-# CourseMaterialofCS
+# CourseMaterialofCS(TJU)
 
 本人为天津大学TJU计算机科学与技术专业的学生，以下为我的课程资料，包括实验要求、代码及报告，个人作业，复习资料，课程笔记等等，请勿用作商业用途，谢谢。
 
