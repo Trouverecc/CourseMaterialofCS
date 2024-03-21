@@ -7,21 +7,31 @@ I am a student, major in computer science and technology, Tianjin University(TJU
 ## 2023-2024第一学期
 
 ## 马克思主义原理：
-https://www.alipan.com/s/sPJRv6GD9PA
+复习资料：https://www.alipan.com/s/sPJRv6GD9PA
+
+笔记：https://1drv.ms/o/s!AoaxTeqAddYjgVAeqFbZWsD6SW0m?e=H9sKTy
 
 ## 大学物理2B：
 https://www.alipan.com/s/q386WpeX69d
+
+笔记：https://1drv.ms/o/s!AoaxTeqAddYjgWs2d0H1LFSu_cjN?e=jCRhxS
 
 ## 操作系统原理：
 OS_study：https://www.alipan.com/s/PmpMoM8hnSn
 
 OS_LAB：https://www.alipan.com/s/iawk7BoEFZT
 
+笔记：https://1drv.ms/o/s!AoaxTeqAddYjgWMkOM15S9-r1XJ3?e=yRY94y
+
 ## 概率论与数理统计：
 https://www.alipan.com/s/1DNRhoxXxm1
 
+笔记：https://1drv.ms/o/s!AoaxTeqAddYjgVtYLMvYLjTy8i0a?e=FBnAcu
+
 ## 算法设计与分析：
 https://www.alipan.com/s/KP1iPoPGDr4
+
+笔记：https://1drv.ms/o/s!AoaxTeqAddYjgV8ODVq6lTRHeixq?e=S4J2Iw
 
 ## 计算机系统综合实践：
 https://gitee.com/trouverecc/NEMU2021
