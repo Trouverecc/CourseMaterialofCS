@@ -6,7 +6,7 @@ I am a student, major in computer science and technology, Tianjin University(TJU
 
 ## 2022-2023第一学期
 
-# 程序设计原理：
+## 程序设计原理：
 期末大作业：请见文件夹
 
 ## 2023-2024第一学期
