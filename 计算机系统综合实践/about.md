@@ -45,10 +45,10 @@ a small monitor with a simple debugger
 Some small C programs to test the implementation of NEMU.
 
 ## uClibc
-uClibc(https://www.uclibc.org/) is a C library for embedding systems. It requires much fewer run-time support than glibc and is very friendly to NEMU.
+[uClibc](https://www.uclibc.org/) is a C library for embedding systems. It requires much fewer run-time support than glibc and is very friendly to NEMU.
 
 ## kernel
-This is the simplified version of Nanos(http://cslab.nju.edu.cn/opsystem). It is a uni-tasking kernel with the following features.
+This is the simplified version of [Nanos](http://cslab.nju.edu.cn/opsystem). It is a uni-tasking kernel with the following features.
 
 2 device drivers
 Ramdisk
@@ -64,4 +64,4 @@ open, read, write, lseek, close, brk
 This is a fork of the demo of NJU 2013 oslab0(the origin repository has been deleted, but we have a fork of it -- https://github.com/nju-ics/os-lab0). It is ported to NEMU.
 
 ## NEMU-PAL
-This is a fork of Wei Mingzhi's SDLPAL(https://github.com/CecilHarvey/sdlpal). It is obtained by refactoring the original SDLPAL, as well as porting to NEMU.
+This is a fork of Wei Mingzhi's [SDLPAL](https://github.com/CecilHarvey/sdlpal). It is obtained by refactoring the original SDLPAL, as well as porting to NEMU.
