@@ -11,6 +11,8 @@ I am a student, major in computer science and technology, Tianjin University(TJU
 
 ## 2023-2024第一学期
 
+### OneNote笔记需要挂tizi访问
+
 ### 马克思主义原理：
 复习资料：https://www.alipan.com/s/sPJRv6GD9PA
 
